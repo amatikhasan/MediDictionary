@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LSU Medical Dictionary</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="about">Web Based Android Application: LSU Medical Dictionary was created by a team of experienced and trained IT students from La Salle University,
+Ozamis City who are passionate about developing a restorative lexicon with the goal of making it easier for the students to locate words in a faster and convenient way.
+We believe that everybody should have access to an application that will make them feel bringing a whole dictionary in their hands but without any hassle.
+Our expertise and commitment to excellence in creating this application ensures that you will experience the most satisfying way from our LSU Medical Dictionary.
+</string>
+</resources>
